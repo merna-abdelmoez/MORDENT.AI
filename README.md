@@ -22,7 +22,6 @@ Cephalometric analysis is essential for orthodontics and surgical planning. Trad
 1. **YOLOv11**: Detects coarse locations of 19 cephalometric landmarks
 2. **GNNs**: Refines detection using anatomical graphs
 
-![Cascaded Architecture](Assests/Cascade Architecture.png)
 
 
 We also developed a full-featured **web-based DICOM viewer** with:
@@ -60,6 +59,10 @@ Final training set: **1,400 images**
 ---
 
 ## 🏗️ Proposed Framework
+
+<p align="center">
+  <img src="https://github.com/merna-abdelmoez/MORDENT.AI/blob/main/Assests/Cascade Architecture.png" alt="Medical VQA"/>
+</p>
 
 ### 🎯 Stage 1: YOLOv11 Object Detection
 - 19 classes (each landmark is a class)
