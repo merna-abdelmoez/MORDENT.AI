@@ -45,9 +45,7 @@ Traditional methods like ASM, AAM, and template matching lacked generalizability
 - 19 manually annotated landmarks (by 2 specialists)
 - Resolution: 1935 × 2400 px (0.1 mm²/pixel)
   
-<p align="center">
-  <img src="https://raw.githubusercontent.com/merna-abdelmoez/MORDENT.AI/main/Assests/Screenshot%202025-06-15 002017.png" alt="Dataset" width="250"/>
-</p>
+ <img src="https://raw.githubusercontent.com/merna-abdelmoez/MORDENT.AI/main/Assests/Screenshot%202025-06-15 002017.png" alt="Dataset" width="250"/>
 
 ### 🔧 Data Preparation
 - Resized to **1000 × 1000 px**
@@ -112,9 +110,8 @@ Built for real-world clinical integration with:
 
 ## 📈 Performance Summary
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/merna-abdelmoez/MORDENT.AI/main/Assests/image.png" alt="Results" width="250"/>
-</p>
+<img src="https://raw.githubusercontent.com/merna-abdelmoez/MORDENT.AI/main/Assests/image.png" alt="Results" width="250"/>
+
 
 | Dataset | Success Rate (≤2mm) | Mean Radial Error (mm) |
 |---------|----------------------|-------------------------|
