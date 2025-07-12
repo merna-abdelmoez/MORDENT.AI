@@ -78,16 +78,13 @@ Final training set: **1,400 images**
 
 #### 🧩 GNN Modules
 
-- **Graph Isomorphism Network (GIN)**:
-  \[
-  x'_i = \text{MLP} \left( (1 + \epsilon) \cdot x_i + \sum_{j \in \mathcal{N}(i)} x_j \right)
-  \]
+- **Graph Isomorphism Network (GIN)**:  
+  `x'_i = MLP((1 + ε) * x_i + Σ_{j ∈ N(i)} x_j)`
 
-- **Dynamic Edge Convolution**:
-  \[
-  e_{ij} = h_0(x_i, x_j - x_i)
-  \]
-  - Graph is reconstructed dynamically at each forward pass
+- **Dynamic Edge Convolution**:  
+  `e_ij = h₀(x_i, x_j - x_i)`  
+  Graph is reconstructed dynamically at each forward pass.
+
 
 ---
 
