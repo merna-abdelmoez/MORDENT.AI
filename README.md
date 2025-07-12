@@ -1,4 +1,4 @@
-# Cephalometric Landmark Detection using YOLOv11 and Graph Neural Networks (GNNs)
+# MORDENT.AI
 
 ## 🧠 Abstract
 
@@ -14,11 +14,6 @@ Our method was trained on the **ISBI 2015** dataset and evaluated on the **PKU**
 
 ---
 
-## 🔑 Keywords
-
-`Cephalometric Analysis`, `Deep Learning`, `YOLO`, `Medical Imaging`, `Web-based Platform`, `Orthodontics`
-
----
 
 ## 📚 Introduction
 
@@ -114,6 +109,7 @@ Built for real-world clinical integration with:
 |---------|----------------------|-------------------------|
 | ISBI    | 77.37%               | 1.58 ± 0.92             |
 | PKU     | 78.12%               | 1.47 ± 1.07             |
+| Private data     | 68.42%      | 2.31 ± 2.37             |
 
 ---
 
@@ -125,26 +121,26 @@ Built for real-world clinical integration with:
 - Cornerstone3D (DICOM Viewer)
 - Docker (Deployment)
 
-  ## Contributors
+## Contributors
 
 <table>
   <tr>
     <td align="center">
    <td align="">
     <a href="https://github.com/merna-abdelmoez" target="_black">
-    <img src="https://avatars.githubusercontent.com/u/115110339?v=4" width="150px;" alt="Merna Abdelmoez"/>
+    <img src="https://avatars.githubusercontent.com/u/115110339?v=4" width="200px;" alt="Merna Abdelmoez"/>
     <br />
     <sub><b>Merna Abdelmoez</b></sub></a>
     <td align="center">
     <a href="https://github.com/Habiba-Mohsen" target="_black">
-    <img src="https://avatars.githubusercontent.com/u/101303283?v=4" width="150px;" alt="Habiba Mohsen"/>
+    <img src="https://avatars.githubusercontent.com/u/101303283?v=4" width="200px;" alt="Habiba Mohsen"/>
     <br />
     <sub><b>Habiba Mohsen</b></sub></a>
     </td>
     </td>
     <td align="center">
     <a href="https://github.com/Hazem-Raafat" target="_black">
-    <img src="https://avatars.githubusercontent.com/u/100636693?v=4" width="150px;" alt="Hazem Raafat"/>
+    <img src="https://avatars.githubusercontent.com/u/100636693?v=4" width="200px;" alt="Hazem Raafat"/>
     <br />
     <sub><b>Hazem Raafat</b></sub></a>
     </td>
