@@ -22,6 +22,9 @@ Cephalometric analysis is essential for orthodontics and surgical planning. Trad
 1. **YOLOv11**: Detects coarse locations of 19 cephalometric landmarks
 2. **GNNs**: Refines detection using anatomical graphs
 
+![Cascaded Architecture](Assests/Cascade Architecture.png)
+
+
 We also developed a full-featured **web-based DICOM viewer** with:
 - AI overlays
 - Measurement tools
