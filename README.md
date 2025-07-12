@@ -46,7 +46,7 @@ Traditional methods like ASM, AAM, and template matching lacked generalizability
 - Resolution: 1935 × 2400 px (0.1 mm²/pixel)
 - 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/merna-abdelmoez/MORDENT.AI/main/Assests/Screenshot%202025-06-15 002017.png" alt="Cascade Architecture" width="600"/>
+  <img src="https://raw.githubusercontent.com/merna-abdelmoez/MORDENT.AI/main/Assests/Screenshot%202025-06-15 002017.png" alt="Dataset" width="600"/>
 </p>
 
 ### 🔧 Data Preparation
@@ -113,7 +113,7 @@ Built for real-world clinical integration with:
 ## 📈 Performance Summary
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/merna-abdelmoez/MORDENT.AI/main/Assests/image.png" alt="Cascade Architecture" width="600"/>
+  <img src="https://raw.githubusercontent.com/merna-abdelmoez/MORDENT.AI/main/Assests/image.png" alt="Results" width="600"/>
 </p>
 
 | Dataset | Success Rate (≤2mm) | Mean Radial Error (mm) |
