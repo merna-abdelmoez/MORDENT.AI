@@ -65,7 +65,7 @@ Final training set: **1,400 images**
 ## 🏗️ Proposed Framework
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/merna-abdelmoez/MORDENT.AI/main/Assests/Cascade%20Architecture.png" alt="Cascade Architecture" width="250"/>
+  <img src="https://raw.githubusercontent.com/merna-abdelmoez/MORDENT.AI/main/Assests/Cascade%20Architecture.png" alt="Cascade Architecture" width="450"/>
 </p>
 
 ### 🎯 Stage 1: YOLOv11 Object Detection
